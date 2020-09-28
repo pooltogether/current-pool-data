@@ -13,7 +13,7 @@ Use this library to programmatically get constants data (ie. contract addresses,
 
 ###### Note:
 
-Since anyone and their dog can create a pool the `contractAddresses` array contains only community approved pool addresses.
+Since anyone can create a pool the `contractAddresses` array contains only community approved pool addresses.
 
 This doesn't publish every pool address available, you'll want to use one of the subgraphs for that: 
 (eg. https://thegraph.com/explorer/subgraph/pooltogether/rinkeby-staging-v3)
