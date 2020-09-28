@@ -3,7 +3,7 @@
   "version": "3.0.0-alpha.33",
   "description": "Published list of current contract addresses for each version",
   "author": "PoolTogether Inc.",
-  "repository": "git@github.com:pooltogether/pool-current-pool-data.git",
+  "repository": "git@github.com:pooltogether/current-pool-data.git",
   "main": "index.js",
   "browser": "index.js",
   "scripts": {},
