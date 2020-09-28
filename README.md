@@ -6,7 +6,7 @@
 
 <br />
 
-### Current Pool Data
+## Current Pool Data
 
 
 Use this library to programmatically get constants data (ie. contract addresses, etc) for specific versions of the PoolTogether protocol.
