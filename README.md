@@ -30,6 +30,6 @@ import { contractAddresses } from '@pooltogether/current-pool-data'
 // rinkeby is 4
 const CHAIN_ID = 4
 
-const daiPoolAddress = contractAddresses[CHAIN_ID].DAI_POOL_CONTRACT_ADDRESS
-const daiPrizeStrategyAddress = contractAddresses[CHAIN_ID].DAI_PRIZE_STRATEGY_CONTRACT_ADDRESS
+const daiPoolAddress = contractAddresses[CHAIN_ID].dai.prizePool
+const daiPrizeStrategyAddress = contractAddresses[CHAIN_ID].dai.prizeStrategy
 ```
