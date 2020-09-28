@@ -1,6 +1,6 @@
 # Current Pool Data
 
-Use this repo to programmatically get constant data for specific versions of the PoolTogether protocol.
+Use this library to programmatically get constants data (ie. contract addresses, etc) for specific versions of the PoolTogether protocol.
 
 ### Note:
 
