@@ -7,6 +7,9 @@
   "main": "index.js",
   "browser": "index.js",
   "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {},
   "dependencies": {}
 }
