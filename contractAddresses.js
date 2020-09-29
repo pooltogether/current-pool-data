@@ -29,16 +29,16 @@ module.exports = {
   },
   4: {
     dai: {
-      prizePool: '0x47a909c6B81442f1e6174f9AcD9a1D5092de2Cd3',
-      prizeStrategy: '0x90228c0903d5d85a28b2a69f2a3e233dbbad0d7c'
+      prizePool: '0xBC705eBdCB05eBc4428f77aAdd9454695550f58e',
+      prizeStrategy: '0x0AFbFE026c0744c2F2749ede3b75683448f2336a'
     },
     usdc: {
-      prizePool: '0x75a885ACB5E9dE8522AF23B35A4Cd627F8C6eeF5',
-      prizeStrategy: '0x6013cdb6f32e2940703402f0d2fc27f38ae67d88'
+      prizePool: '0x0d04D8425509a16DDCD30A14C9c0d521cafc5Bc6',
+      prizeStrategy: '0x90aC921aB3A66eEfeB2919ab91a04f2DD062c009'
     },
     usdt: {
-      prizePool: '0x6786E3CDa115F1885f338987d01Fe80c7D4b3e18',
-      prizeStrategy: '0x0bfbde8753da62537393f30018e3f87dff0ee8c7'
+      prizePool: '0x0c3d90463e17Df9d2c10fD8A90C0Ae3dC1Aa74be',
+      prizeStrategy: '0xb22a535807BE53a06e050C3f55470101c64323F1'
     },
   },
   42: {
