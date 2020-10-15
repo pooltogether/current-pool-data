@@ -43,8 +43,8 @@ module.exports = {
   },
   4: {
     dai: {
-      prizePool: '0x6E3A0129d6c7da94afE2f99023979eDe762977A8',
-      prizeStrategy: '0x1eab4e66850442543258DEa4E0a15c36Ef3e290D'
+      prizePool: '0xfF795dB4Ca70527FF1Ba445f318376B93f49271C',
+      prizeStrategy: '0x6910Bd923b6eEcE5E6BE7eAbebe36Fb9cE3b9245'
     },
     usdc: {
       prizePool: '0x53035b7c76A7e3b5bE46f732f75C0f1b06BacC89',
