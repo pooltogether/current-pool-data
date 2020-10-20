@@ -29,30 +29,30 @@ module.exports = {
   },
   3: {
     dai: {
-      prizePool: '0x4724B4Ef551e248db947F7c2215905897BCD3aD9',
-      prizeStrategy: '0xA45Ad3854285f04C06D8ee46CF5E1F1311607905'
+      prizePool: '0x2d4B45D1f95eAc52BF9a224e6bc262662dE5104a',
+      prizeStrategy: '0x7ce2BE586768958B7C4dfdEC9aA870b65fea0971'
     },
     usdc: {
-      prizePool: '0x2D1c53f056D48Ec13D1891B83f8CC1fdADfc792a',
-      prizeStrategy: '0xdb0eC8FE0c9c652E61548Baf11cf896D3E963c46'
+      prizePool: '0x4B5980f347aDae56e8cb2f9C3BFD7ECf19a0b805',
+      prizeStrategy: '0x55c06f1Ed5c73E70e07f99dB1dE2FfF697c2d5a1'
     },
     usdt: {
-      prizePool: '0x0BB79f50F6BD3ddE71a8ab0BdA6E197972057A7f',
-      prizeStrategy: '0x5e72217090fE0bD6380662fa3b94Eef8baCB88b8'
+      prizePool: '0x1bd5dd378B4aFF78f09Dcae425A00FC4A8e13B24',
+      prizeStrategy: '0x906f199B89B5e3D5d615e2aaB323a77E8CfAD778'
     },
   },
   4: {
     dai: {
-      prizePool: '0xfF795dB4Ca70527FF1Ba445f318376B93f49271C',
-      prizeStrategy: '0x6910Bd923b6eEcE5E6BE7eAbebe36Fb9cE3b9245'
+      prizePool: '0x1eFCd798f15F74Ee70268C72d71999a91F45F8d3',
+      prizeStrategy: '0xB61014475292971649063069C26F3fcF9FA0B787'
     },
     usdc: {
-      prizePool: '0x53035b7c76A7e3b5bE46f732f75C0f1b06BacC89',
-      prizeStrategy: '0xA8f4dD80ee3CEE20Ba87F982A18d440548f56F30'
+      prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',
+      prizeStrategy: '0x1b92BC2F339ef25161711e4EafC31999C005aF21'
     },
     usdt: {
-      prizePool: '0x720FC9830625C1F3D6a7919b3A961c5827eF19Ec',
-      prizeStrategy: '0xA0B1eEE5D36598411809f7d61792f6F27bf03A67'
+      prizePool: '0xDCB24C5C96D3D0677add5B688DCD144601410244',
+      prizeStrategy: '0x1607ce8aDe05C324043D7f5362A6d856cd4Ae589'
     },
   },
 }
