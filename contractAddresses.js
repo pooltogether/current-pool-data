@@ -29,8 +29,8 @@ module.exports = {
   },
   3: {
     dai: {
-      prizePool: '0x2d4B45D1f95eAc52BF9a224e6bc262662dE5104a',
-      prizeStrategy: '0x7ce2BE586768958B7C4dfdEC9aA870b65fea0971'
+      prizePool: '0x7e72cfd7F2a0dB4Aa4B1A5b3FaBadc98d45bbeD7',
+      prizeStrategy: '0x29c70754A028B377B04595f11eFcb825566e9A21'
     },
     usdc: {
       prizePool: '0x4B5980f347aDae56e8cb2f9C3BFD7ECf19a0b805',
@@ -43,8 +43,8 @@ module.exports = {
   },
   4: {
     dai: {
-      prizePool: '0x1eFCd798f15F74Ee70268C72d71999a91F45F8d3',
-      prizeStrategy: '0xB61014475292971649063069C26F3fcF9FA0B787'
+      prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
+      prizeStrategy: '0xe470984FbE3C16aCfc41BA2E5274c297f0723134'
     },
     usdc: {
       prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',
