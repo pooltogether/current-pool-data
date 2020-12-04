@@ -36,7 +36,7 @@ module.exports = {
   4: {
     dai: {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
-      prizeStrategy: '0xe470984FbE3C16aCfc41BA2E5274c297f0723134'
+      prizeStrategy: '0x506CFB5ed425FE986cb913522f3297a79697AbfC'
     },
     usdc: {
       prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',
