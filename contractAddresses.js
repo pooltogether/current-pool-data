@@ -34,9 +34,11 @@ module.exports = {
     },
   },
   4: {
+    lootBox: '0xfbC6677806253dB9739d0F6CBD89b9e7Ed4A5c66',
+    lootBoxController: '0xb1EAc75da9bc31B078742C5AF9EDe62EFE31299D',
     dai: {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
-      prizeStrategy: '0x506CFB5ed425FE986cb913522f3297a79697AbfC'
+      prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329',
     },
     usdc: {
       prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',
