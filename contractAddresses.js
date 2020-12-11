@@ -1,7 +1,7 @@
 module.exports = {
   1: {
     lootBox: '0x4d695c615a7AACf2d7b9C481B66045BB2457Dfde',
-    lootBoxController: '0x51cf8623d75C27884AD83e8d5dEFE7F758647Aac',
+    lootBoxController: '0x2c2a966b7F5448A36EC9f896088DfB99B21d8A24',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2'
