@@ -1,48 +1,13 @@
 module.exports = {
   1: {
-    // 3.1.0
-    // '': {
-    //   contract: 'CompoundPrizePool',
-    //   version: '3.1.0'
-    // },
-    // '': {
-    //   contract: 'StakePrizePool',
-    //   version: '3.1.0'
-    // },
-    // '': {
-    //   contract: 'ControlledToken',
-    //   version: '3.1.0'
-    // },
-    // '': {
-    //   contract: 'SingleRandomWinner',
-    //   version: '3.1.0'
-    // },
-    // '': {
-    //   contract: 'Ticket',
-    //   version: '3.1.0'
-    // },
-    // '': {
-    //   contract: 'yVaultPrizePool',
-    //   version: '3.1.0'
-    // },
     '0x363d3d373d3d3d363d73a26b82d34c2f4b44163ad657f07d596aebde48c55af43d82803e903d91602b57fd5bf3': {
       contract: 'MultipleWinners',
       version: '3.1.0'
     },
-    // '': {
-    //   contract: 'yVaultPrizePool',
-    //   version: '3.1.0'
-    // },
-
-    // 3.0.1
     '0x363d3d373d3d3d363d73db342a83322416490f1dd4f1f93dd4cc870136d95af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
       version: '3.0.1'
     },
-    // '': {
-    //   contract: 'StakePrizePool',
-    //   version: '3.0.1'
-    // },
     '0x363d3d373d3d3d363d73750c321b0cd7fc11acb3913ace0b605eddbb2b5a5af43d82803e903d91602b57fd5bf3': {
       contract: 'ControlledToken',
       version: '3.0.1'
@@ -51,17 +16,8 @@ module.exports = {
       contract: 'SingleRandomWinner',
       version: '3.0.1'
     }
-    // '0x363d3d373d3d3d363d7309576c5af80167fc410eb33f85c74a891832085f5af43d82803e903d91602b57fd5bf3': {
-    //   contract: 'Ticket',
-    //   version: '3.0.1'
-    // }
-    // '': {
-    //   contract: 'yVaultPrizePool',
-    //   version: '3.0.1'
-    // },
   },
   4: {
-    // 3.1.0
     '0x363d3d373d3d3d363d732a9ad0278f0bcf859edd968d67d1d77e856162705af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
       version: '3.1.0'
@@ -74,28 +30,14 @@ module.exports = {
       contract: 'ControlledToken',
       version: '3.1.0'
     },
-    // '': {
-    //   contract: 'SingleRandomWinner',
-    //   version: '3.1.0'
-    // },
     '0x363d3d373d3d3d363d73e40f94baad8b48e27d12854623c77e93c009566e5af43d82803e903d91602b57fd5bf3': {
       contract: 'Ticket',
-      version: '3.1.0'
-    },
-    '': {
-      contract: 'yVaultPrizePool',
       version: '3.1.0'
     },
     '0x363d3d373d3d3d363d73751e6c7111c44d78db2d91eafacbcd67015a71225af43d82803e903d91602b57fd5bf3': {
       contract: 'MultipleWinners',
       version: '3.1.0'
     },
-    // '': {
-    //   contract: 'yVaultPrizePool',
-    //   version: '3.1.0'
-    // },
-
-    // 3.0.1
     '0x363d3d373d3d3d363d730f5da01b3a7cd04eadb8ee9a93b9781658ff95c25af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
       version: '3.0.1'
@@ -116,9 +58,5 @@ module.exports = {
       contract: 'Ticket',
       version: '3.0.1'
     }
-    // '': {
-    //   contract: 'yVaultPrizePool',
-    //   version: '3.0.1'
-    // },
   }
 }

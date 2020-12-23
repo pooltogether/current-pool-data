@@ -5,6 +5,10 @@ module.exports = {
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2'
+    },
+    uni: {
+      prizePool: '0x0650d780292142835F6ac58dd8E2a336e87b4393',
+      prizeStrategy: '0xe8726B85236a489a8E84C56c95790d07a368f913'
     }
   },
   31337: {
@@ -50,5 +54,9 @@ module.exports = {
       prizePool: '0xDCB24C5C96D3D0677add5B688DCD144601410244',
       prizeStrategy: '0x1607ce8aDe05C324043D7f5362A6d856cd4Ae589'
     },
-  },
+    bat: {
+      prizePool: '0xab068F220E10eEd899b54F1113dE7E354c9A8eB7',
+      prizeStrategy: '0x41CF0758b7Cc2394b1C2dfF6133FEbb0Ef317C3b'
+    }
+  }
 }
