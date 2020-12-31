@@ -8,13 +8,33 @@ module.exports = {
       contract: 'CompoundPrizePool',
       version: '3.0.1'
     },
+    '0x363d3d373d3d3d363d733239b42f38b45cdcb2d9478fc7d64c9b60328f685af43d82803e903d91602b57fd5bf3': {
+      contract: 'CompoundPrizePool',
+      version: '3.1.0'
+    },
     '0x363d3d373d3d3d363d73750c321b0cd7fc11acb3913ace0b605eddbb2b5a5af43d82803e903d91602b57fd5bf3': {
       contract: 'ControlledToken',
       version: '3.0.1'
     },
+    '0x363d3d373d3d3d363d73c35efa2aba9d3fb6caa4c1a737710c2477cb23125af43d82803e903d91602b57fd5bf3': {
+      contract: 'ControlledToken',
+      version: '3.1.0'
+    },
+    '0x363d3d373d3d3d363d7309576c5af80167fc410eb33f85c74a891832085f5af43d82803e903d91602b57fd5bf3': {
+      contract: 'Ticket',
+      version: '3.0.1'
+    },
+    '0x363d3d373d3d3d363d73ade780a5815319645413d0cac3055bb5f01b37645af43d82803e903d91602b57fd5bf3': {
+      contract: 'Ticket',
+      version: '3.1.0'
+    },
     '0x363d3d373d3d3d363d737194c20df246937be2a21f842bddcc770caf43d35af43d82803e903d91602b57fd5bf3': {
       contract: 'SingleRandomWinner',
       version: '3.0.1'
+    },
+    '0x363d3d373d3d3d363d737132d6cc80173ceb9813d8855bebae10096872875af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
+      version: '3.1.0'
     }
   },
   4: {
