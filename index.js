@@ -1,7 +1,9 @@
 'use strict';
 
-Object.defineProperty(exports, '__esModule', { value: true });
+var contractAddresses = require('./contractAddresses')
+var contractVersions = require('./contractVersions')
 
-var contractAddresses = require('./contractAddresses.js');
-
-exports.contractAddresses = contractAddresses;
+module.exports = {
+  contractAddresses,
+  contractVersions
+}

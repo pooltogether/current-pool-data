@@ -1,4 +1,4 @@
-const contractVersions = require('../contractVersions')
+const { contractVersions } = require('../index')
 
 describe('load', () => {
   it('should include the uni pool', () => {

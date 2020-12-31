@@ -1,4 +1,4 @@
-const contractAddresses = require('../contractAddresses')
+const { contractAddresses } = require('../index')
 
 describe('load', () => {
   it('should include the uni pool', () => {
