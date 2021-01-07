@@ -9,6 +9,10 @@ module.exports = {
     uni: {
       prizePool: '0x0650d780292142835F6ac58dd8E2a336e87b4393',
       prizeStrategy: '0xe8726B85236a489a8E84C56c95790d07a368f913'
+    },
+    usdc: {
+      prizePool: '0x4b912b18a94a1640c4230f9444c3871a6f4f9d5e',
+      prizeStrategy: '0x43eaf02830e99679d132298525343915bdea48b2'
     }
   },
   31337: {
