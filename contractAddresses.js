@@ -2,6 +2,7 @@ module.exports = {
   1: {
     lootBox: '0x4d695c615a7AACf2d7b9C481B66045BB2457Dfde',
     lootBoxController: '0x2c2a966b7F5448A36EC9f896088DfB99B21d8A24',
+    lootBoxPrizeStrategyListener: '0xfe7205DF55BA42c8801e44B55BF05F06cCe8565E',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2'
@@ -11,8 +12,8 @@ module.exports = {
       prizeStrategy: '0xe8726B85236a489a8E84C56c95790d07a368f913'
     },
     usdc: {
-      prizePool: '0x4b912b18a94a1640c4230f9444c3871a6f4f9d5e',
-      prizeStrategy: '0x43eaf02830e99679d132298525343915bdea48b2'
+      prizePool: '0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416',
+      prizeStrategy: '0x3d9946190907ada8b70381b25c71eb9adf5f9b7b'
     }
   },
   31337: {
