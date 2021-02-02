@@ -1,5 +1,8 @@
 module.exports = {
   1: {
+    // 3.2.0
+    // TODO:
+    // 3.1.0
     '0x363d3d373d3d3d363d73a26b82d34c2f4b44163ad657f07d596aebde48c55af43d82803e903d91602b57fd5bf3': {
       contract: 'MultipleWinners',
       version: '3.1.0'
@@ -12,6 +15,7 @@ module.exports = {
       contract: 'CompoundPrizePool',
       version: '3.1.0'
     },
+    // 3.0.1
     '0x363d3d373d3d3d363d73750c321b0cd7fc11acb3913ace0b605eddbb2b5a5af43d82803e903d91602b57fd5bf3': {
       contract: 'ControlledToken',
       version: '3.0.1'
@@ -38,6 +42,28 @@ module.exports = {
     }
   },
   4: {
+    // 3.2.0
+    '0x363d3d373d3d3d363d73c26eb0d06d456dfb1436ad1dcf3b13c8cc8f49265af43d82803e903d91602b57fd5bf3': {
+      contract: 'CompoundPrizePool',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d73e195afad6c27c8b5a1893a65b791073a9fd9278d5af43d82803e903d91602b57fd5bf3': {
+      contract: 'ControlledToken',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d738a1e2e43dfeb9dc3d635c9708789529879e3f0da5af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d735203a1579c6d9ca1f5cac5aa23e9353dfdea089c5af43d82803e903d91602b57fd5bf3': {
+      contract: 'TokenFaucet',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d73e6b8d7a21d4ed9ed9e77c6e5f3fb1b005361b8455af43d82803e903d91602b57fd5bf3': {
+      contract: 'Ticket',
+      version: '3.2.0'
+    },
+    // 3.1.0
     '0x363d3d373d3d3d363d732a9ad0278f0bcf859edd968d67d1d77e856162705af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
       version: '3.1.0'
@@ -58,6 +84,7 @@ module.exports = {
       contract: 'MultipleWinners',
       version: '3.1.0'
     },
+    // 3.0.1
     '0x363d3d373d3d3d363d730f5da01b3a7cd04eadb8ee9a93b9781658ff95c25af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
       version: '3.0.1'
