@@ -16,7 +16,7 @@ module.exports = {
       prizeStrategy: '0x3d9946190907ada8b70381b25c71eb9adf5f9b7b'
     },
     comp: {
-      prizePool: '0x3239b42f38b45cdcb2d9478fc7d64c9b60328f68',
+      prizePool: '0xBC82221e131c082336cf698F0cA3EBd18aFd4ce7',
       prizeStrategy: '0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773'
     }
   },
