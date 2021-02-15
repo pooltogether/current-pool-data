@@ -105,5 +105,24 @@ module.exports = {
       contract: 'Ticket',
       version: '3.0.1'
     }
+  },
+  77: {
+    // 3.2.0
+    '0x363d3d373d3d3d363d735874b8459e2cf14a9693f4c099446ff63b4c40215af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d739939c3748831dcff6daea19e3498394178f981ce5af43d82803e903d91602b57fd5bf3': {
+      contract: 'ControlledToken',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d7382a091d4d81bd6f6031e7a3a23a85709f6e617045af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d734cc67fa3dda7174eb0fd2fe33936932dca31dfc75af43d82803e903d91602b57fd5bf3': {
+      contract: 'Ticket',
+      version: '3.2.0'
+    }
   }
 }
