@@ -3,6 +3,10 @@ module.exports = {
     lootBox: '0x4d695c615a7AACf2d7b9C481B66045BB2457Dfde',
     lootBoxController: '0x2c2a966b7F5448A36EC9f896088DfB99B21d8A24',
     lootBoxPrizeStrategyListener: '0xfe7205DF55BA42c8801e44B55BF05F06cCe8565E',
+    daiFaucet: '0xF362ce295F2A4eaE4348fFC8cDBCe8d729ccb8Eb',
+    usdcFaucet: '0xbd537257fad96e977b9e545be583bbf7028f30b9',
+    uniFaucet: '0xa5dddefD30e234Be2Ac6FC1a0364cFD337aa0f61',
+    compFaucet: '0x72F06a78bbAac0489067A1973B0Cef61841D58BC',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2'
