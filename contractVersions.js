@@ -2,17 +2,26 @@ module.exports = {
   1: {
     // 3.2.0
     // TODO:
+    
     // 3.1.0
     '0x363d3d373d3d3d363d73a26b82d34c2f4b44163ad657f07d596aebde48c55af43d82803e903d91602b57fd5bf3': {
       contract: 'MultipleWinners',
       version: '3.1.0'
     },
-    '0x363d3d373d3d3d363d73db342a83322416490f1dd4f1f93dd4cc870136d95af43d82803e903d91602b57fd5bf3': {
-      contract: 'CompoundPrizePool',
-      version: '3.0.1'
-    },
     '0x363d3d373d3d3d363d733239b42f38b45cdcb2d9478fc7d64c9b60328f685af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
+      version: '3.1.0'
+    },
+    '0x363d3d373d3d3d363d73c35efa2aba9d3fb6caa4c1a737710c2477cb23125af43d82803e903d91602b57fd5bf3': {
+      contract: 'ControlledToken',
+      version: '3.1.0'
+    },
+    '0x363d3d373d3d3d363d73ade780a5815319645413d0cac3055bb5f01b37645af43d82803e903d91602b57fd5bf3': {
+      contract: 'Ticket',
+      version: '3.1.0'
+    },
+    '0x363d3d373d3d3d363d737132d6cc80173ceb9813d8855bebae10096872875af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
       version: '3.1.0'
     },
     // 3.0.1
@@ -20,29 +29,30 @@ module.exports = {
       contract: 'ControlledToken',
       version: '3.0.1'
     },
-    '0x363d3d373d3d3d363d73c35efa2aba9d3fb6caa4c1a737710c2477cb23125af43d82803e903d91602b57fd5bf3': {
-      contract: 'ControlledToken',
-      version: '3.1.0'
+    '0x363d3d373d3d3d363d73db342a83322416490f1dd4f1f93dd4cc870136d95af43d82803e903d91602b57fd5bf3': {
+      contract: 'CompoundPrizePool',
+      version: '3.0.1'
     },
     '0x363d3d373d3d3d363d7309576c5af80167fc410eb33f85c74a891832085f5af43d82803e903d91602b57fd5bf3': {
       contract: 'Ticket',
       version: '3.0.1'
     },
-    '0x363d3d373d3d3d363d73ade780a5815319645413d0cac3055bb5f01b37645af43d82803e903d91602b57fd5bf3': {
-      contract: 'Ticket',
-      version: '3.1.0'
-    },
     '0x363d3d373d3d3d363d737194c20df246937be2a21f842bddcc770caf43d35af43d82803e903d91602b57fd5bf3': {
       contract: 'SingleRandomWinner',
       version: '3.0.1'
     },
-    '0x363d3d373d3d3d363d737132d6cc80173ceb9813d8855bebae10096872875af43d82803e903d91602b57fd5bf3': {
-      contract: 'StakePrizePool',
-      version: '3.1.0'
-    }
   },
   4: {
-    // 3.2.0
+    // 3.2.0-post
+    '0x363d3d373d3d3d363d73b83804d52b61261eae29b5b6bb110840b4bc1c5a5af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
+      version: '3.2.0'
+    },
+    '0x363d3d373d3d3d363d73435ce56b825d2536e4ca1f32e7858caa991779ae5af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.2.0'
+    },
+    // 3.2.0-pre
     '0x363d3d373d3d3d363d73c26eb0d06d456dfb1436ad1dcf3b13c8cc8f49265af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
       version: '3.2.0'

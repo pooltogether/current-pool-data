@@ -1,5 +1,7 @@
 module.exports = {
   1: {
+    reserve: '0xdb8E47BEFe4646fCc62BE61EEE5DF350404c124F',
+    reserveRegistry: '0x3e8b9901dBFE766d3FE44B36c180A1bca2B9A295',
     lootBox: '0x4d695c615a7AACf2d7b9C481B66045BB2457Dfde',
     lootBoxController: '0x2c2a966b7F5448A36EC9f896088DfB99B21d8A24',
     lootBoxPrizeStrategyListener: '0xfe7205DF55BA42c8801e44B55BF05F06cCe8565E',
