@@ -1,5 +1,25 @@
 module.exports = {
   1: {
+    // 3.3.0
+    '0x363d3d373d3d3d363d73de9051d8dda5ded009020d23836e6361d57a90685af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
+      version: '3.3.0'
+    },
+    '0x363d3d373d3d3d363d7383db7fae6bdbca112b9e17b88db23425a13b17e35af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.3.0'
+    },
+    // TODO:
+    // '': {
+    //   contract: 'CompoundPrizePool',
+    //   version: '3.3.0'
+    // },
+    // TODO:
+    // '': {
+    //   contract: 'YieldPrizePool',
+    //   version: '3.3.0'
+    // },
+
     // 3.2.0
     // TODO:
     
@@ -43,6 +63,25 @@ module.exports = {
     },
   },
   4: {
+    // 3.3.0
+    '0x363d3d373d3d3d363d73d5d27b081ac0629fc46363cd1b92b40e1a94a0d85af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
+      version: '3.3.0'
+    },
+    '0x363d3d373d3d3d363d731dbd051b141881f0b62914523b9919081b7028d15af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.3.0'
+    },
+    '0x363d3d373d3d3d363d73bb496bdae8c891f90d7b650097a22e5b23aa4d105af43d82803e903d91602b57fd5bf3': {
+      contract: 'CompoundPrizePool',
+      version: '3.3.0'
+    },
+    // TODO: 
+    // '': {
+    //   contract: 'YieldPrizePool',
+    //   version: '3.3.0'
+    // },
+
     // 3.2.0-post
     '0x363d3d373d3d3d363d73b83804d52b61261eae29b5b6bb110840b4bc1c5a5af43d82803e903d91602b57fd5bf3': {
       contract: 'StakePrizePool',
