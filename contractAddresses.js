@@ -8,6 +8,8 @@ module.exports = {
     daiFaucet: '0xF362ce295F2A4eaE4348fFC8cDBCe8d729ccb8Eb',
     usdcFaucet: '0xbd537257fad96e977b9e545be583bbf7028f30b9',
     uniFaucet: '0xa5dddefD30e234Be2Ac6FC1a0364cFD337aa0f61',
+    merkleDistributor: '0xBE1a33519F586A4c8AA37525163Df8d67997016f',
+    poolToken: '0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e',
     compFaucet: '0x72F06a78bbAac0489067A1973B0Cef61841D58BC',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
@@ -57,6 +59,8 @@ module.exports = {
   4: {
     lootBox: '0xfbC6677806253dB9739d0F6CBD89b9e7Ed4A5c66',
     lootBoxController: '0xb1EAc75da9bc31B078742C5AF9EDe62EFE31299D',
+    merkleDistributor: '0x93a6540DcE05a4A5E5B906eB97bBCBb723768F2D',
+    poolToken: '0xc4E90a8Dc6CaAb329f08ED3C8abc6b197Cf0F40A',
     dai: {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
       prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329',
