@@ -154,6 +154,26 @@ module.exports = {
       version: '3.0.1'
     }
   },
+  42: {
+    // 3.3.0
+    '0x363d3d373d3d3d363d735874b8459e2cf14a9693f4c099446ff63b4c40215af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.3.0'
+    },
+    '0x363d3d373d3d3d363d739939c3748831dcff6daea19e3498394178f981ce5af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
+      version: '3.3.0'
+    },
+    '0x363d3d373d3d3d363d7309576c5af80167fc410eb33f85c74a891832085f5af43d82803e903d91602b57fd5bf3': {
+      contract: 'CompoundPrizePool',
+      version: '3.3.0'
+    },
+    // TODO:
+    // '': {
+    //   contract: 'YieldPrizePool',
+    //   version: '3.3.0'
+    // },
+  },
   77: {
     // 3.2.0
     '0x363d3d373d3d3d363d735874b8459e2cf14a9693f4c099446ff63b4c40215af43d82803e903d91602b57fd5bf3': {
