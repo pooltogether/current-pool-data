@@ -21,7 +21,6 @@ module.exports = {
     // },
 
     // 3.2.0
-    // TODO:
     // NOTE: No pools were created with 3.2.0 builder as of March 8th, 2020
 
     // 3.1.0
