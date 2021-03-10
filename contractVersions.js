@@ -21,8 +21,8 @@ module.exports = {
     // },
 
     // 3.2.0
-    // TODO:
-    
+    // NOTE: No pools were created with 3.2.0 builder as of March 8th, 2020
+
     // 3.1.0
     '0x363d3d373d3d3d363d73a26b82d34c2f4b44163ad657f07d596aebde48c55af43d82803e903d91602b57fd5bf3': {
       contract: 'MultipleWinners',
@@ -60,7 +60,7 @@ module.exports = {
     '0x363d3d373d3d3d363d737194c20df246937be2a21f842bddcc770caf43d35af43d82803e903d91602b57fd5bf3': {
       contract: 'SingleRandomWinner',
       version: '3.0.1'
-    },
+    }
   },
   4: {
     // 3.3.0
@@ -76,12 +76,10 @@ module.exports = {
       contract: 'CompoundPrizePool',
       version: '3.3.0'
     },
-    // TODO: 
-    // '': {
-    //   contract: 'YieldPrizePool',
-    //   version: '3.3.0'
-    // },
-
+    '0x363d3d373d3d3d363d73a37fbf0f0a5bc97f931712ffb65b7eb46aa9ac085af43d82803e903d91602b57fd5bf3': {
+      contract: 'YieldPrizePool',
+      version: '3.3.0'
+    },
     // 3.2.0-post
     '0x363d3d373d3d3d363d73b83804d52b61261eae29b5b6bb110840b4bc1c5a5af43d82803e903d91602b57fd5bf3': {
       contract: 'StakePrizePool',
@@ -154,6 +152,26 @@ module.exports = {
       contract: 'Ticket',
       version: '3.0.1'
     }
+  },
+  42: {
+    // 3.3.0
+    '0x363d3d373d3d3d363d735874b8459e2cf14a9693f4c099446ff63b4c40215af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.3.0'
+    },
+    '0x363d3d373d3d3d363d739939c3748831dcff6daea19e3498394178f981ce5af43d82803e903d91602b57fd5bf3': {
+      contract: 'StakePrizePool',
+      version: '3.3.0'
+    },
+    '0x363d3d373d3d3d363d7309576c5af80167fc410eb33f85c74a891832085f5af43d82803e903d91602b57fd5bf3': {
+      contract: 'CompoundPrizePool',
+      version: '3.3.0'
+    },
+    // TODO:
+    // '': {
+    //   contract: 'YieldPrizePool',
+    //   version: '3.3.0'
+    // },
   },
   77: {
     // 3.2.0
