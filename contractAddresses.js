@@ -26,6 +26,10 @@ module.exports = {
     comp: {
       prizePool: '0xBC82221e131c082336cf698F0cA3EBd18aFd4ce7',
       prizeStrategy: '0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773'
+    },
+    pool: {
+      prizePool: '0x396b4489da692788e327e2e4b2b0459a5ef26791',
+      prizeStrategy: '0x21e5e62e0b6b59155110cd36f3f6655fbbcf6424'
     }
   },
   31337: {
