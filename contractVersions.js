@@ -1,5 +1,25 @@
 module.exports = {
   1: {
+    // 3.3.5
+    '0x363d3d373d3d3d363d731b24bdb570ea92c0cbe5421419caf47c976349285af43d82803e903d91602b57fd5bf3': {
+      contract: 'YieldPrizePool',
+      version: '3.3.5'
+    },
+    '0x363d3d373d3d3d363d7383db7fae6bdbca112b9e17b88db23425a13b17e35af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.3.5'
+    },
+    // TODO:
+    // '': {
+    //   contract: 'CompoundPrizePool',
+    //   version: '3.3.5'
+    // },
+    // TODO:
+    // '': {
+    //   contract: 'YieldPrizePool',
+    //   version: '3.3.5'
+    // },
+
     // 3.3.0
     '0x363d3d373d3d3d363d73de9051d8dda5ded009020d23836e6361d57a90685af43d82803e903d91602b57fd5bf3': {
       contract: 'StakePrizePool',
@@ -44,6 +64,7 @@ module.exports = {
       contract: 'StakePrizePool',
       version: '3.1.0'
     },
+
     // 3.0.1
     '0x363d3d373d3d3d363d73750c321b0cd7fc11acb3913ace0b605eddbb2b5a5af43d82803e903d91602b57fd5bf3': {
       contract: 'ControlledToken',
@@ -80,6 +101,7 @@ module.exports = {
       contract: 'YieldPrizePool',
       version: '3.3.0'
     },
+
     // 3.2.0-post
     '0x363d3d373d3d3d363d73b83804d52b61261eae29b5b6bb110840b4bc1c5a5af43d82803e903d91602b57fd5bf3': {
       contract: 'StakePrizePool',
@@ -89,6 +111,7 @@ module.exports = {
       contract: 'MultipleWinners',
       version: '3.2.0'
     },
+
     // 3.2.0-pre
     '0x363d3d373d3d3d363d73c26eb0d06d456dfb1436ad1dcf3b13c8cc8f49265af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
@@ -110,6 +133,7 @@ module.exports = {
       contract: 'Ticket',
       version: '3.2.0'
     },
+
     // 3.1.0
     '0x363d3d373d3d3d363d732a9ad0278f0bcf859edd968d67d1d77e856162705af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
@@ -131,6 +155,7 @@ module.exports = {
       contract: 'MultipleWinners',
       version: '3.1.0'
     },
+    
     // 3.0.1
     '0x363d3d373d3d3d363d730f5da01b3a7cd04eadb8ee9a93b9781658ff95c25af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
