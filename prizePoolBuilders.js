@@ -1,6 +1,11 @@
 module.exports = {
   // Mainnet
   '1': [
+    // v3.3.5
+    {
+      address: '0x39E2F33ff4Ad3491106B3BB15dc66EbE24e4E9C7',
+      blockNumber: 12065408
+    },
     // v3.3.0
     {
       address: '0xdA64816F76BEA59cde1ecbe5A094F6c56A7F9770',
@@ -19,6 +24,11 @@ module.exports = {
   ],
   // Rinkeby
   '4': [
+    // v3.3.5
+    {
+      address: '0xF150CFC88868B88eAfc52D1C571A9Bdc484611E2',
+      blockNumber: 8256865
+    },
     // v3.3.0
     {
       address: '0xb443cc42baf90b72259BF7026Aa8ba6E25d6730a',
@@ -47,6 +57,11 @@ module.exports = {
   ],
   // Kovan
   '42': [
+    // 3.3.5
+    {
+      address: '0x14e194Cf5E1dd73BB46256495aEa8ff36A7Aa454',
+      blockNumber: 23976843
+    },
     // 3.3.0
     {
       address: '0xE1d06d492107F14AE024c357005c5c692158B13D',
@@ -55,6 +70,11 @@ module.exports = {
   ],
   // Sokol
   '77': [
+    // 3.3.6
+    {
+      address: '0x1a8A2F20E37dCc27d5d18af65eC58Be02CEd979D',
+      blockNumber: 19942118
+    },
     // 3.3.0
     {
       address: '0xB29A3c1a9d4eFa7391e685bFD2654ea31E2f3125',
@@ -63,6 +83,11 @@ module.exports = {
   ],
   // xDai
   '100': [
+    // 3.3.5
+    {
+      address: '0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5',
+      blockNumber: 15077726
+    },
     // 3.3.0
     {
       address: '0xb1D89477d1b505C261bab6e73f08fA834544CD21',
@@ -71,6 +96,11 @@ module.exports = {
   ],
   // Matic
   '137': [
+    // 3.3.5
+    {
+      address: '0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5',
+      blockNumber: 12175292
+    },
     // 3.3.0
     {
       address: '0xb1D89477d1b505C261bab6e73f08fA834544CD21',
@@ -79,6 +109,11 @@ module.exports = {
   ],
   // Matic Testnet - Mumbai
   '80001': [
+    // 3.3.5
+    {
+      address: '0x4d1639e4b237BCab6F908A1CEb0995716D5ebE36',
+      blockNumber: 11713813
+    },
     // 3.3.0
     {
       address: '0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F',
