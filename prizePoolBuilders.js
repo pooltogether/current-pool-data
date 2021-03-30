@@ -68,6 +68,22 @@ module.exports = {
       blockNumber: 23775999
     }
   ],
+  // Binance BSC
+  '56': [
+    // 3.3.7
+    {
+      address: '0x6dc7cA9e2c19Da475B39cce7437994c1725d85C9',
+      blockNumber: 6114878
+    },
+  ],
+  // Binance BSC
+  '97': [
+    // 3.3.7
+    {
+      address: '0x6dc7cA9e2c19Da475B39cce7437994c1725d85C9',
+      blockNumber: 7521793
+    },
+  ],
   // Sokol
   '77': [
     // 3.3.6
