@@ -11,6 +11,7 @@ module.exports = {
     merkleDistributor: '0xBE1a33519F586A4c8AA37525163Df8d67997016f',
     poolToken: '0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e',
     compFaucet: '0x72F06a78bbAac0489067A1973B0Cef61841D58BC',
+    poolPoolFaucet: '0x30430419b86e9512E6D93Fc2b0791d98DBeb637b',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2'
