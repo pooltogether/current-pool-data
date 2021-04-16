@@ -24,6 +24,10 @@ module.exports = {
       prizePool: '0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416',
       prizeStrategy: '0x3d9946190907ada8b70381b25c71eb9adf5f9b7b'
     },
+    usdt: {
+      prizePool: '0x481f1BA81f7C01400831DfF18215961C3530D118',
+      prizeStrategy: '0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1'
+    },
     comp: {
       prizePool: '0xBC82221e131c082336cf698F0cA3EBd18aFd4ce7',
       prizeStrategy: '0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773'
