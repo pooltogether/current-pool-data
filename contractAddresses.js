@@ -28,6 +28,18 @@ module.exports = {
       prizePool: '0x481f1BA81f7C01400831DfF18215961C3530D118',
       prizeStrategy: '0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1'
     },
+    susd: {
+      prizePool: '0x5b746a07D36a9C8583313983D83d2fC029dcF7Bf',
+      prizeStrategy: '0xa57d39750c3a0099918aa3a0be65f79d5099e5c1'
+    },
+    busd: {
+      prizePool: '0x244D223C0ad484AA27691C4efd2218a71b240c8c',
+      prizeStrategy: '0x680741922E708694DC0688Ff61fbbc77e4F765Ed'
+    },
+    gusd: {
+      prizePool: '0x65C8827229FbD63f9de9FDfd400C9D264066A336',
+      prizeStrategy: '0x821cF440654addD81493e1949F9ee078D65bb57f'
+    },
     comp: {
       prizePool: '0xBC82221e131c082336cf698F0cA3EBd18aFd4ce7',
       prizeStrategy: '0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773'
