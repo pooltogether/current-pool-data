@@ -35,6 +35,10 @@ module.exports = {
     pool: {
       prizePool: '0x396b4489da692788e327e2e4b2b0459a5ef26791',
       prizeStrategy: '0x21e5e62e0b6b59155110cd36f3f6655fbbcf6424'
+    },
+    badger: {
+      prizePool: '0xc2a7dfb76e93d12a1bb1fa151b9900158090395d',
+      prizeStrategy: '0xbe85339d8cc7fdd6c949da660a691d201a576876'
     }
   },
   31337: {
@@ -49,7 +53,7 @@ module.exports = {
     usdt: {
       prizePool: '',
       prizeStrategy: ''
-    },
+    }
   },
   3: {
     dai: {
@@ -63,7 +67,7 @@ module.exports = {
     usdt: {
       prizePool: '0x1bd5dd378B4aFF78f09Dcae425A00FC4A8e13B24',
       prizeStrategy: '0x906f199B89B5e3D5d615e2aaB323a77E8CfAD778'
-    },
+    }
   },
   4: {
     lootBox: '0xfbC6677806253dB9739d0F6CBD89b9e7Ed4A5c66',
@@ -72,7 +76,7 @@ module.exports = {
     poolToken: '0xc4E90a8Dc6CaAb329f08ED3C8abc6b197Cf0F40A',
     dai: {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
-      prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329',
+      prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329'
     },
     usdc: {
       prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',

@@ -1,6 +1,11 @@
 module.exports = {
   // Mainnet
-  '1': [
+  1: [
+    // v3.3.8
+    {
+      address: '0xf843d50D4a7dC43Ea47682b444995DAbDD014526',
+      blockNumber: 12247765
+    },
     // v3.3.5
     {
       address: '0x39E2F33ff4Ad3491106B3BB15dc66EbE24e4E9C7',
@@ -23,7 +28,7 @@ module.exports = {
     }
   ],
   // Rinkeby
-  '4': [
+  4: [
     // v3.3.5
     {
       address: '0xF150CFC88868B88eAfc52D1C571A9Bdc484611E2',
@@ -56,7 +61,7 @@ module.exports = {
     }
   ],
   // Kovan
-  '42': [
+  42: [
     // 3.3.5
     {
       address: '0x14e194Cf5E1dd73BB46256495aEa8ff36A7Aa454',
@@ -69,23 +74,23 @@ module.exports = {
     }
   ],
   // Binance BSC
-  '56': [
+  56: [
     // 3.3.7
     {
       address: '0x6dc7cA9e2c19Da475B39cce7437994c1725d85C9',
       blockNumber: 6114878
-    },
+    }
   ],
   // Binance BSC
-  '97': [
+  97: [
     // 3.3.7
     {
       address: '0x6dc7cA9e2c19Da475B39cce7437994c1725d85C9',
       blockNumber: 7521793
-    },
+    }
   ],
   // Sokol
-  '77': [
+  77: [
     // 3.3.6
     {
       address: '0x1a8A2F20E37dCc27d5d18af65eC58Be02CEd979D',
@@ -98,7 +103,7 @@ module.exports = {
     }
   ],
   // xDai
-  '100': [
+  100: [
     // 3.3.5
     {
       address: '0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5',
@@ -111,7 +116,7 @@ module.exports = {
     }
   ],
   // Matic
-  '137': [
+  137: [
     // 3.3.5
     {
       address: '0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5',
@@ -124,7 +129,7 @@ module.exports = {
     }
   ],
   // Matic Testnet - Mumbai
-  '80001': [
+  80001: [
     // 3.3.5
     {
       address: '0x4d1639e4b237BCab6F908A1CEb0995716D5ebE36',
