@@ -37,6 +37,11 @@ module.exports = {
         },
         symbol: 'PT-cCOMP',
         subgraphVersion: '3.1.0'
+      },
+      {
+        prizePool: { address: '0xc2a7dfb76e93d12a1bb1fa151b9900158090395d' },
+        symbol: 'PT-stBADGER',
+        subgraphVersion: '3.3.2'
       }
     ],
     community: [
@@ -69,11 +74,6 @@ module.exports = {
         prizePool: { address: '0x9f7905c7bd5ec9e870ed50f0e286f2742c19f5b3' },
         symbol: 'DPI-0x9f7905',
         subgraphVersion: '3.1.0'
-      },
-      {
-        prizePool: { address: '0xc2a7dfb76e93d12a1bb1fa151b9900158090395d' },
-        symbol: 'PT-stBADGER',
-        subgraphVersion: '3.3.2'
       }
     ]
   },
