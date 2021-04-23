@@ -1,5 +1,15 @@
 module.exports = {
   1: {
+    // 3.3.8
+    '0x363d3d373d3d3d363d73175059cde7cd1041b971a6ec34c0014936e6267a5af43d82803e903d91602b57fd5bf3': {
+      contract: 'YieldPrizePool',
+      version: '3.3.8'
+    },
+    '0x363d3d373d3d3d363d737ce11d1c91ef47b7d93f9c0423502eb3d7550db85af43d82803e903d91602b57fd5bf3': {
+      contract: 'MultipleWinners',
+      version: '3.3.8'
+    },
+
     // 3.3.5
     '0x363d3d373d3d3d363d731b24bdb570ea92c0cbe5421419caf47c976349285af43d82803e903d91602b57fd5bf3': {
       contract: 'YieldPrizePool',
@@ -155,7 +165,7 @@ module.exports = {
       contract: 'MultipleWinners',
       version: '3.1.0'
     },
-    
+
     // 3.0.1
     '0x363d3d373d3d3d363d730f5da01b3a7cd04eadb8ee9a93b9781658ff95c25af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
@@ -191,7 +201,7 @@ module.exports = {
     '0x363d3d373d3d3d363d7309576c5af80167fc410eb33f85c74a891832085f5af43d82803e903d91602b57fd5bf3': {
       contract: 'CompoundPrizePool',
       version: '3.3.0'
-    },
+    }
     // TODO:
     // '': {
     //   contract: 'YieldPrizePool',
