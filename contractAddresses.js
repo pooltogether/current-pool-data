@@ -57,6 +57,11 @@ module.exports = {
     dai: {
       prizePool: '0xfecfa775643eb8c0f755491ba4569e501764da51',
       prizeStrategy: '0x94a0c72b4fec5b1abac88500c56a15c656b8a027'
+    },
+    usdt: {
+      prizePool: '0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4',
+      prizeStrategy: '0x5A65f0CE666B8334b6481A8d8C8323BB782386e6',
+      tokenFaucet: '0x90a8d8Ee6fDb1875028C6537877E6704b2646c51'
     }
   },
   31337: {
