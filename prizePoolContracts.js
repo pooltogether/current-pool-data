@@ -46,6 +46,21 @@ module.exports = {
     ],
     community: [
       {
+        prizePool: { address: '0x5b746a07D36a9C8583313983D83d2fC029dcF7Bf' },
+        symbol: 'sUSD-0x5b746a',
+        subgraphVersion: '3.3.8'
+      },
+      {
+        prizePool: { address: '0x244D223C0ad484AA27691C4efd2218a71b240c8c' },
+        symbol: 'bUSD-0x244D22',
+        subgraphVersion: '3.3.8'
+      },
+      {
+        prizePool: { address: '0x65C8827229FbD63f9de9FDfd400C9D264066A336' },
+        symbol: 'gUSD-0x65C882',
+        subgraphVersion: '3.3.8'
+      },
+      {
         prizePool: { address: '0xa88ca010b32a54d446fc38091ddbca55750cbfc3' },
         symbol: 'WETH-0xa88ca0',
         subgraphVersion: '3.3.2'
