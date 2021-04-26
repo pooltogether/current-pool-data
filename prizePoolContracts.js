@@ -118,16 +118,17 @@ module.exports = {
     ]
   },
   137: {
-    governance: [],
+    governance: [
+      {
+        prizePool: { address: '0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4' },
+        symbol: 'USDT-0x887E17',
+        subgraphVersion: '3.3.8'
+      }
+    ],
     community: [
       {
         prizePool: { address: '0x60764c6be24ddab70d9ae1dbf7436533cc073c21' },
         symbol: 'DAI-0x60764c',
-        subgraphVersion: '3.3.0'
-      },
-      {
-        prizePool: { address: '0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4' },
-        symbol: 'USDT',
         subgraphVersion: '3.3.0'
       }
     ]
