@@ -153,5 +153,9 @@ module.exports = {
         subgraphVersion: '3.3.0'
       }
     ]
+  },
+  80001: {
+    governance: [],
+    community: []
   }
 }
