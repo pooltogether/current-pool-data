@@ -114,6 +114,11 @@ module.exports = {
         prizePool: { address: '0xe19b8887677432707ae4dd1ce6b50ef9abd44bb6' },
         symbol: 'USDC-0xe19b88',
         subgraphVersion: '3.3.8'
+      },
+      {
+        prizePool: { address: '0xc7d56c06F136EFff93e349C7BF8cc46bBF5D902c' },
+        symbol: 'USDT-0xc7d56c',
+        subgraphVersion: '3.3.8'
       }
     ]
   },
@@ -127,8 +132,8 @@ module.exports = {
       },
       {
         prizePool: { address: '0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4' },
-        symbol: 'USDT',
-        subgraphVersion: '3.3.0'
+        symbol: 'USDT-0x887E17',
+        subgraphVersion: '3.3.8'
       }
     ]
   }

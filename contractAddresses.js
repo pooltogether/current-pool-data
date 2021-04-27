@@ -51,6 +51,10 @@ module.exports = {
     badger: {
       prizePool: '0xc2a7dfb76e93d12a1bb1fa151b9900158090395d',
       prizeStrategy: '0xbe85339d8cc7fdd6c949da660a691d201a576876'
+    },
+    aaveUsdt: {
+      prizePool: '0xc7d56c06F136EFff93e349C7BF8cc46bBF5D902c',
+      prizeStrategy: '0x2223d2e68e0990567f5e0451f4c027870ea07227'
     }
   },
   137: {
