@@ -3,7 +3,7 @@ module.exports = {
   1: [
     // v3.3.8
     {
-      address: '0xf843d50D4a7dC43Ea47682b444995DAbDD014526',
+      address: '0xD1e536939F637Fc12f29C304c406377c9f77E28c',
       blockNumber: 12247765
     },
     // v3.3.5

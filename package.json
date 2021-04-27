@@ -1,6 +1,6 @@
 {
   "name": "@pooltogether/current-pool-data",
-  "version": "3.3.11",
+  "version": "3.4.4",
   "description": "Published list of current contract addresses for each version",
   "author": "PoolTogether Inc.",
   "repository": "git@github.com:pooltogether/current-pool-data.git",

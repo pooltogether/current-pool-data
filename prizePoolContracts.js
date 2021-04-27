@@ -1,4 +1,5 @@
 // List of prize pools for the flagship app
+// Note: Addresses are all lower case
 
 module.exports = {
   1: {
@@ -45,6 +46,21 @@ module.exports = {
       }
     ],
     community: [
+      {
+        prizePool: { address: '0x5b746a07d36a9c8583313983d83d2fc029dcf7bf' },
+        symbol: 'sUSD-0x5b746a',
+        subgraphVersion: '3.3.8'
+      },
+      {
+        prizePool: { address: '0x244d223c0ad484aa27691c4efd2218a71b240c8c' },
+        symbol: 'bUSD-0x244D22',
+        subgraphVersion: '3.3.8'
+      },
+      {
+        prizePool: { address: '0x65c8827229fbd63f9de9fdfd400c9d264066a336' },
+        symbol: 'gUSD-0x65C882',
+        subgraphVersion: '3.3.8'
+      },
       {
         prizePool: { address: '0xa88ca010b32a54d446fc38091ddbca55750cbfc3' },
         symbol: 'WETH-0xa88ca0',
@@ -123,17 +139,18 @@ module.exports = {
     ]
   },
   137: {
-    governance: [],
+    governance: [
+      {
+        prizePool: { address: '0x887e17d791dcb44bfdda3023d26f7a04ca9c7ef4' },
+        symbol: 'USDT-0x887E17',
+        subgraphVersion: '3.3.8'
+      }
+    ],
     community: [
       {
         prizePool: { address: '0x60764c6be24ddab70d9ae1dbf7436533cc073c21' },
         symbol: 'DAI-0x60764c',
         subgraphVersion: '3.3.0'
-      },
-      {
-        prizePool: { address: '0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4' },
-        symbol: 'USDT-0x887E17',
-        subgraphVersion: '3.3.8'
       }
     ]
   }
