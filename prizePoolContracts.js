@@ -135,6 +135,11 @@ module.exports = {
         prizePool: { address: '0xc7d56c06F136EFff93e349C7BF8cc46bBF5D902c' },
         symbol: 'USDT-0xc7d56c',
         subgraphVersion: '3.3.8'
+      },
+      {
+        prizePool: { address: '0x7355f97fBA5237aEdFE2CdAad50A4eA3cF070A98' },
+        symbol: 'FAST-DAI-0x7355f9',
+        subgraphVersion: '3.3.8'
       }
     ]
   },

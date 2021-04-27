@@ -105,6 +105,10 @@ module.exports = {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
       prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329'
     },
+    fastDai: {
+      prizePool: '0x7355f97fBA5237aEdFE2CdAad50A4eA3cF070A98',
+      prizeStrategy: '0xB6eB9fBFec33f38D8114a610737A548cBc0cd6F1'
+    },
     usdc: {
       prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',
       prizeStrategy: '0x1b92BC2F339ef25161711e4EafC31999C005aF21'
