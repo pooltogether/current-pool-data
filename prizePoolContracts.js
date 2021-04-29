@@ -47,6 +47,11 @@ module.exports = {
     ],
     community: [
       {
+        prizePool: { address: '0xea7eaecbff99ce2412e794437325f3bd225ee78f' },
+        symbol: 'BOND-0xea7eae',
+        subgraphVersion: '3.1.0'
+      },
+      {
         prizePool: { address: '0x5b746a07d36a9c8583313983d83d2fc029dcf7bf' },
         symbol: 'sUSD-0x5b746a',
         subgraphVersion: '3.3.8'
