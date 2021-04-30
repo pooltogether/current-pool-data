@@ -117,6 +117,11 @@ module.exports = {
   ],
   // Matic
   137: [
+    // 3.3.8
+    {
+      address: '0x5effa0823e486A5ED1D49d88A1374Fc337e1f9F4',
+      blockNumber: 13326178
+    },
     // 3.3.5
     {
       address: '0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5',
