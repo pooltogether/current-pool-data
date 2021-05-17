@@ -5,6 +5,7 @@ var contractVersions = require('./contractVersions')
 var poolWithMultipleWinnersBuilders = require('./poolWithMultipleWinnersBuilders')
 var prizePoolContracts = require('./prizePoolContracts')
 var tokenBlockList = require('./erc20BlockList')
+var proposalsToSnapshots = require('./proposalsToSnapshots')
 var constants = require('./constants')
 
 module.exports = {
@@ -13,5 +14,6 @@ module.exports = {
   poolWithMultipleWinnersBuilders,
   prizePoolContracts,
   tokenBlockList,
+  proposalsToSnapshots,
   ...constants
 }
