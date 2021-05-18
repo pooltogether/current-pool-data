@@ -12,6 +12,7 @@ module.exports = {
     poolToken: '0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e',
     compFaucet: '0x72F06a78bbAac0489067A1973B0Cef61841D58BC',
     poolPoolFaucet: '0x30430419b86e9512E6D93Fc2b0791d98DBeb637b',
+    uniswapPoolEth: '0x9A29401EF1856b669f55Ae5b24505b3B6fAEb370',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2'
@@ -55,6 +56,10 @@ module.exports = {
     aaveUsdt: {
       prizePool: '0xc7d56c06F136EFff93e349C7BF8cc46bBF5D902c',
       prizeStrategy: '0x2223d2e68e0990567f5e0451f4c027870ea07227'
+    },
+    uniswapPoolEth: {
+      prizePool: '0x3AF7072D29Adde20FC7e173a7CB9e45307d2FB0A',
+      prizeStrategy: '0x76b6A667A881e43e508eA4bd2E9775378FB2eEb7'
     }
   },
   137: {
