@@ -11,6 +11,7 @@ module.exports = {
     10: 'QmVH5v9S7LTEUbPEnycpdGhs14YzRZWFe96pVxnhyC5Rvm',
     11: 'QmfDcwyhMyhiTmszt8EX1a2vGfJzAN5TcXGMUwm7W7G7rq',
     12: 'QmPHkNL8i3Z4hwnidTjXgdqyUgNB8nJn9nyMyHXTvNweuk',
-    13: 'QmUciaGr8fFL98NAKxxVejLmo7fAoYkb1G4zjzPhcmVYDR'
+    13: 'QmUciaGr8fFL98NAKxxVejLmo7fAoYkb1G4zjzPhcmVYDR',
+    14: 'QmUciaGr8fFL98NAKxxVejLmo7fAoYkb1G4zjzPhcmVYDR'
   }
 }
