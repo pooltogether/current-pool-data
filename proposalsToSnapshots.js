@@ -10,6 +10,7 @@ module.exports = {
     9: 'Qmco465RK64Mj5cwBvmwHsfY9uTyC4SoS565PmQDhPtm2h',
     10: 'QmVH5v9S7LTEUbPEnycpdGhs14YzRZWFe96pVxnhyC5Rvm',
     11: 'QmfDcwyhMyhiTmszt8EX1a2vGfJzAN5TcXGMUwm7W7G7rq',
-    12: 'QmPHkNL8i3Z4hwnidTjXgdqyUgNB8nJn9nyMyHXTvNweuk'
+    12: 'QmPHkNL8i3Z4hwnidTjXgdqyUgNB8nJn9nyMyHXTvNweuk',
+    13: 'QmUciaGr8fFL98NAKxxVejLmo7fAoYkb1G4zjzPhcmVYDR'
   }
 }
