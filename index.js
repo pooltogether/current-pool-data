@@ -7,6 +7,7 @@ var prizePoolContracts = require('./prizePoolContracts')
 var tokenBlockList = require('./erc20BlockList')
 var proposalsToSnapshots = require('./proposalsToSnapshots')
 var constants = require('./constants')
+var subgraphs = require('./subgraphs')
 
 module.exports = {
   contractAddresses,
@@ -15,5 +16,6 @@ module.exports = {
   prizePoolContracts,
   tokenBlockList,
   proposalsToSnapshots,
-  ...constants
+  ...constants,
+  ...subgraphs
 }
