@@ -110,7 +110,8 @@ module.exports = {
     poolToken: '0xc4E90a8Dc6CaAb329f08ED3C8abc6b197Cf0F40A',
     dai: {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
-      prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329'
+      prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329',
+      pod: '0x4A26b34A902045CFb573aCb681550ba30AA79783'
     },
     fastDai: {
       prizePool: '0x7355f97fBA5237aEdFE2CdAad50A4eA3cF070A98',
@@ -118,7 +119,8 @@ module.exports = {
     },
     usdc: {
       prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',
-      prizeStrategy: '0x1b92BC2F339ef25161711e4EafC31999C005aF21'
+      prizeStrategy: '0x1b92BC2F339ef25161711e4EafC31999C005aF21',
+      pod: '0x68c96179Cf9a90C589571Dc7AA94AD15d94e917d'
     },
     usdt: {
       prizePool: '0xDCB24C5C96D3D0677add5B688DCD144601410244',
