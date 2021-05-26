@@ -16,7 +16,7 @@ module.exports = {
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2',
-      pod: '0xaD104c86c0f9A05ed445F858CdE948fE7E0Bbac6'
+      pod: '0x2f994e2E4F3395649eeE8A89092e63Ca526dA829'
     },
     uni: {
       prizePool: '0x0650d780292142835F6ac58dd8E2a336e87b4393',
@@ -25,7 +25,7 @@ module.exports = {
     usdc: {
       prizePool: '0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416',
       prizeStrategy: '0x3d9946190907ada8b70381b25c71eb9adf5f9b7b',
-      pod: '0x4C8A84387A2ad7a85113e913fb650Def886DCc04'
+      pod: '0x386EB78f2eE79AddE8Bdb0a0e27292755ebFea58'
     },
     usdt: {
       prizePool: '0x481f1BA81f7C01400831DfF18215961C3530D118',
