@@ -13,6 +13,7 @@ module.exports = {
     compFaucet: '0x72F06a78bbAac0489067A1973B0Cef61841D58BC',
     poolPoolFaucet: '0x30430419b86e9512E6D93Fc2b0791d98DBeb637b',
     uniswapPoolEthFaucet: '0x9A29401EF1856b669f55Ae5b24505b3B6fAEb370',
+    podFactory: '0x4e3a9F9fBAFB2EC49727cFfa2a411F7a0C1C4cE1',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
       prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2',
@@ -108,6 +109,7 @@ module.exports = {
     lootBoxController: '0xb1EAc75da9bc31B078742C5AF9EDe62EFE31299D',
     merkleDistributor: '0x93a6540DcE05a4A5E5B906eB97bBCBb723768F2D',
     poolToken: '0xc4E90a8Dc6CaAb329f08ED3C8abc6b197Cf0F40A',
+    podFactory: '0x5C126F8F6107b2da41dAA8b7E4c3f4a01098A6db',
     dai: {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
       prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329'
