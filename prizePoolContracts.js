@@ -43,6 +43,11 @@ module.exports = {
         prizePool: { address: '0xc2a7dfb76e93d12a1bb1fa151b9900158090395d' },
         symbol: 'PT-stBADGER',
         subgraphVersion: '3.3.2'
+      },
+      {
+        prizePool: { address: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559' },
+        symbol: 'PT-xSUSHI',
+        subgraphVersion: '3.3.8'
       }
     ],
     community: [
