@@ -276,12 +276,6 @@ module.exports = {
       {
         contract: 'YieldPrizePool',
         version: '3.3.8'
-      },
-    // 3.3.8
-    '0x363d3d373d3d3d363d738102081abb9c0153e944dffa327b912a213235445af43d82803e903d91602b57fd5bf3':
-      {
-        contract: 'YieldPrizePool',
-        version: '3.3.8'
       }
   }
 }
