@@ -43,6 +43,16 @@ module.exports = {
         prizePool: { address: '0xc2a7dfb76e93d12a1bb1fa151b9900158090395d' },
         symbol: 'PT-stBADGER',
         subgraphVersion: '3.3.2'
+      },
+      {
+        prizePool: { address: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559' },
+        symbol: 'PT-xSUSHI',
+        subgraphVersion: '3.3.8'
+      },
+      {
+        prizePool: { address: '0x65c8827229fbd63f9de9fdfd400c9d264066a336' },
+        symbol: 'gUSD-0x65C882',
+        subgraphVersion: '3.3.8'
       }
     ],
     community: [
@@ -59,11 +69,6 @@ module.exports = {
       {
         prizePool: { address: '0x244d223c0ad484aa27691c4efd2218a71b240c8c' },
         symbol: 'bUSD-0x244D22',
-        subgraphVersion: '3.3.8'
-      },
-      {
-        prizePool: { address: '0x65c8827229fbd63f9de9fdfd400c9d264066a336' },
-        symbol: 'gUSD-0x65C882',
         subgraphVersion: '3.3.8'
       },
       {

@@ -13,9 +13,12 @@ module.exports = {
     compFaucet: '0x72F06a78bbAac0489067A1973B0Cef61841D58BC',
     poolPoolFaucet: '0x30430419b86e9512E6D93Fc2b0791d98DBeb637b',
     uniswapPoolEthFaucet: '0x9A29401EF1856b669f55Ae5b24505b3B6fAEb370',
+    sushiFaucet: '0xddcf915656471b7c44217fb8c51f9888701e759a',
+    podFactory: '0x4e3a9F9fBAFB2EC49727cFfa2a411F7a0C1C4cE1',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
-      prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2'
+      prizeStrategy: '0x178969A87a78597d303C47198c66F68E8be67Dc2',
+      pod: '0x2f994e2E4F3395649eeE8A89092e63Ca526dA829'
     },
     uni: {
       prizePool: '0x0650d780292142835F6ac58dd8E2a336e87b4393',
@@ -23,7 +26,8 @@ module.exports = {
     },
     usdc: {
       prizePool: '0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416',
-      prizeStrategy: '0x3d9946190907ada8b70381b25c71eb9adf5f9b7b'
+      prizeStrategy: '0x3d9946190907ada8b70381b25c71eb9adf5f9b7b',
+      pod: '0x386EB78f2eE79AddE8Bdb0a0e27292755ebFea58'
     },
     usdt: {
       prizePool: '0x481f1BA81f7C01400831DfF18215961C3530D118',
@@ -60,6 +64,10 @@ module.exports = {
     uniswapPoolEth: {
       prizePool: '0x3AF7072D29Adde20FC7e173a7CB9e45307d2FB0A',
       prizeStrategy: '0x76b6A667A881e43e508eA4bd2E9775378FB2eEb7'
+    },
+    sushi: {
+      prizePool: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559',
+      prizeStrategy: '0x94ac4f591908ad5a1ccc9e05d2d75b0dd62d97fa'
     }
   },
   137: {
@@ -106,9 +114,11 @@ module.exports = {
     lootBoxController: '0xb1EAc75da9bc31B078742C5AF9EDe62EFE31299D',
     merkleDistributor: '0x93a6540DcE05a4A5E5B906eB97bBCBb723768F2D',
     poolToken: '0xc4E90a8Dc6CaAb329f08ED3C8abc6b197Cf0F40A',
+    podFactory: '0x5C126F8F6107b2da41dAA8b7E4c3f4a01098A6db',
     dai: {
       prizePool: '0x4706856FA8Bb747D50b4EF8547FE51Ab5Edc4Ac2',
-      prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329'
+      prizeStrategy: '0x5E0A6d336667EACE5D1b33279B50055604c3E329',
+      pod: '0x4A26b34A902045CFb573aCb681550ba30AA79783'
     },
     fastDai: {
       prizePool: '0x7355f97fBA5237aEdFE2CdAad50A4eA3cF070A98',
@@ -116,7 +126,8 @@ module.exports = {
     },
     usdc: {
       prizePool: '0xde5275536231eCa2Dd506B9ccD73C028e16a9a32',
-      prizeStrategy: '0x1b92BC2F339ef25161711e4EafC31999C005aF21'
+      prizeStrategy: '0x1b92BC2F339ef25161711e4EafC31999C005aF21',
+      pod: '0x68c96179Cf9a90C589571Dc7AA94AD15d94e917d'
     },
     usdt: {
       prizePool: '0xDCB24C5C96D3D0677add5B688DCD144601410244',
