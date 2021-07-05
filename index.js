@@ -8,10 +8,12 @@ var tokenBlockList = require('./erc20BlockList')
 var proposalsToSnapshots = require('./proposalsToSnapshots')
 var constants = require('./constants')
 var subgraphs = require('./subgraphUris')
+var podContractAddresses = require('./podContractAddresses')
 
 module.exports = {
   contractAddresses,
   contractVersions,
+  podContractAddresses,
   poolWithMultipleWinnersBuilders,
   prizePoolContracts,
   tokenBlockList,
