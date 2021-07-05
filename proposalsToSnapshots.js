@@ -12,6 +12,9 @@ module.exports = {
     11: 'QmfDcwyhMyhiTmszt8EX1a2vGfJzAN5TcXGMUwm7W7G7rq',
     12: 'QmPHkNL8i3Z4hwnidTjXgdqyUgNB8nJn9nyMyHXTvNweuk',
     13: 'QmUciaGr8fFL98NAKxxVejLmo7fAoYkb1G4zjzPhcmVYDR',
-    14: 'QmUciaGr8fFL98NAKxxVejLmo7fAoYkb1G4zjzPhcmVYDR'
+    14: 'QmUciaGr8fFL98NAKxxVejLmo7fAoYkb1G4zjzPhcmVYDR',
+    15: 'QmNnT7TGB7BRWHWqg4vzNqRLx8xzGdJm5hvyUg52KahHND',
+    16: 'QmQH4JyeqR8SNFLwZTaDfknumF6YZN1hsRKEsgtUJfNxrD',
+    17: 'QmQkabpV68cS3GffwQmTHZuRqwYg7mNvT8GeFmzrZ97M71'
   }
 }
