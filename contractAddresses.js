@@ -1,3 +1,6 @@
+// This data structure is deprecated in favor of the prizePoolContracts one
+// it's much easier to work with - use that instead
+
 module.exports = {
   1: {
     reserve: '0xdb8E47BEFe4646fCc62BE61EEE5DF350404c124F',
@@ -5,15 +8,8 @@ module.exports = {
     lootBox: '0x4d695c615a7AACf2d7b9C481B66045BB2457Dfde',
     lootBoxController: '0x2c2a966b7F5448A36EC9f896088DfB99B21d8A24',
     lootBoxPrizeStrategyListener: '0xfe7205DF55BA42c8801e44B55BF05F06cCe8565E',
-    daiFaucet: '0xF362ce295F2A4eaE4348fFC8cDBCe8d729ccb8Eb',
-    usdcFaucet: '0xbd537257fad96e977b9e545be583bbf7028f30b9',
-    uniFaucet: '0xa5dddefD30e234Be2Ac6FC1a0364cFD337aa0f61',
     merkleDistributor: '0xBE1a33519F586A4c8AA37525163Df8d67997016f',
     poolToken: '0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e',
-    compFaucet: '0x72F06a78bbAac0489067A1973B0Cef61841D58BC',
-    poolPoolFaucet: '0x30430419b86e9512E6D93Fc2b0791d98DBeb637b',
-    uniswapPoolEthFaucet: '0x9A29401EF1856b669f55Ae5b24505b3B6fAEb370',
-    sushiFaucet: '0xddcf915656471b7c44217fb8c51f9888701e759a',
     podFactory: '0x4e3a9F9fBAFB2EC49727cFfa2a411F7a0C1C4cE1',
     dai: {
       prizePool: '0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a',
@@ -34,8 +30,7 @@ module.exports = {
     },
     usdt: {
       prizePool: '0x481f1BA81f7C01400831DfF18215961C3530D118',
-      prizeStrategy: '0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1',
-      tokenListeners: ['']
+      prizeStrategy: '0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1'
     },
     susd: {
       prizePool: '0x5b746a07D36a9C8583313983D83d2fC029dcF7Bf',
@@ -86,7 +81,6 @@ module.exports = {
     usdt: {
       prizePool: '0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4',
       prizeStrategy: '0x5A65f0CE666B8334b6481A8d8C8323BB782386e6',
-      tokenFaucet: '0x90a8d8Ee6fDb1875028C6537877E6704b2646c51',
       tokenListeners: ['0x90a8d8ee6fdb1875028c6537877e6704b2646c51']
     }
   },
