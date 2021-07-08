@@ -10,7 +10,7 @@ module.exports = {
         },
         symbol: 'PT-cDAI',
         subgraphVersion: '3.1.0',
-        tokenListeners: ['0xf362ce295f2a4eae4348ffc8cdbce8d729ccb8eb']
+        tokenFaucets: ['0xf362ce295f2a4eae4348ffc8cdbce8d729ccb8eb']
       },
       {
         prizePool: {
@@ -18,7 +18,7 @@ module.exports = {
         },
         symbol: 'PT-cUNI',
         subgraphVersion: '3.1.0',
-        tokenListeners: ['0xa5dddefd30e234be2ac6fc1a0364cfd337aa0f61']
+        tokenFaucets: ['0xa5dddefd30e234be2ac6fc1a0364cfd337aa0f61']
       },
       {
         prizePool: {
@@ -26,7 +26,7 @@ module.exports = {
         },
         symbol: 'PT-cUSDC',
         subgraphVersion: '3.1.0',
-        tokenListeners: ['0xbd537257fad96e977b9e545be583bbf7028f30b9']
+        tokenFaucets: ['0xbd537257fad96e977b9e545be583bbf7028f30b9']
       },
       {
         prizePool: {
@@ -34,7 +34,7 @@ module.exports = {
         },
         symbol: 'PT-stPOOL',
         subgraphVersion: '3.3.2',
-        tokenListeners: ['0x30430419b86e9512e6d93fc2b0791d98dbeb637b']
+        tokenFaucets: ['0x30430419b86e9512e6d93fc2b0791d98dbeb637b']
       },
       {
         prizePool: {
@@ -42,19 +42,19 @@ module.exports = {
         },
         symbol: 'PT-cCOMP',
         subgraphVersion: '3.1.0',
-        tokenListeners: ['0x72f06a78bbaac0489067a1973b0cef61841d58bc']
+        tokenFaucets: ['0x72f06a78bbaac0489067a1973b0cef61841d58bc']
       },
       {
         prizePool: { address: '0xc2a7dfb76e93d12a1bb1fa151b9900158090395d' },
         symbol: 'PT-stBADGER',
         subgraphVersion: '3.3.2',
-        tokenListeners: ['0x40f76363129118b34cc2af44963192c3e8690ba6']
+        tokenFaucets: ['0x40f76363129118b34cc2af44963192c3e8690ba6']
       },
       {
         prizePool: { address: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559' },
         symbol: 'PT-xSUSHI',
         subgraphVersion: '3.3.8',
-        tokenListeners: ['0xddcf915656471b7c44217fb8c51f9888701e759a']
+        tokenFaucets: ['0xddcf915656471b7c44217fb8c51f9888701e759a']
       },
       {
         prizePool: { address: '0x65c8827229fbd63f9de9fdfd400c9d264066a336' },
@@ -141,7 +141,7 @@ module.exports = {
         prizePool: { address: '0x887e17d791dcb44bfdda3023d26f7a04ca9c7ef4' },
         symbol: 'USDT-0x887E17',
         subgraphVersion: '3.3.8',
-        tokenListeners: ['0x90a8d8ee6fdb1875028c6537877e6704b2646c51']
+        tokenFaucets: ['0x90a8d8ee6fdb1875028c6537877e6704b2646c51']
       }
     ],
     community: []
