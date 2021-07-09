@@ -70,7 +70,10 @@ module.exports = {
     sushi: {
       prizePool: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559',
       prizeStrategy: '0x94ac4f591908ad5a1ccc9e05d2d75b0dd62d97fa',
-      tokenFaucets: ['0xddcf915656471b7c44217fb8c51f9888701e759a']
+      tokenFaucets: [
+        '0xddcf915656471b7c44217fb8c51f9888701e759a',
+        '0xd186302304fd367488b5087af5b12cb9b7cf7540'
+      ]
     }
   },
   137: {

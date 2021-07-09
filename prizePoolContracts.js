@@ -54,7 +54,10 @@ module.exports = {
         prizePool: { address: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559' },
         symbol: 'PT-xSUSHI',
         subgraphVersion: '3.3.8',
-        tokenFaucets: ['0xddcf915656471b7c44217fb8c51f9888701e759a']
+        tokenFaucets: [
+          '0xddcf915656471b7c44217fb8c51f9888701e759a',
+          '0xd186302304fd367488b5087af5b12cb9b7cf7540'
+        ]
       },
       {
         prizePool: { address: '0x65c8827229fbd63f9de9fdfd400c9d264066a336' },
