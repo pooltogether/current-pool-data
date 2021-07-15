@@ -147,7 +147,13 @@ module.exports = {
         tokenFaucets: ['0x90a8d8ee6fdb1875028c6537877e6704b2646c51']
       }
     ],
-    community: []
+    community: [
+      {
+        prizePool: { address: '0x345dc966180d5cf6b57a476362e9c859b725991e' },
+        symbol: 'PTssMASK',
+        subgraphVersion: '3.3.8'
+      }
+    ]
   },
   80001: {
     governance: [],
