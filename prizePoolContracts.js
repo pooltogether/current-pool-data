@@ -144,7 +144,10 @@ module.exports = {
         prizePool: { address: '0x887e17d791dcb44bfdda3023d26f7a04ca9c7ef4' },
         symbol: 'USDT-0x887E17',
         subgraphVersion: '3.3.8',
-        tokenFaucets: ['0x90a8d8ee6fdb1875028c6537877e6704b2646c51']
+        tokenFaucets: [
+          '0x90a8d8ee6fdb1875028c6537877e6704b2646c51',
+          '0x951A969324127Fcc19D3498d6954A296E3B9C33c'
+        ]
       }
     ],
     community: []

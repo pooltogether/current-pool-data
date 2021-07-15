@@ -84,7 +84,10 @@ module.exports = {
     usdt: {
       prizePool: '0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4',
       prizeStrategy: '0x5A65f0CE666B8334b6481A8d8C8323BB782386e6',
-      tokenFaucets: ['0x90a8d8ee6fdb1875028c6537877e6704b2646c51']
+      tokenFaucets: [
+        '0x90a8d8ee6fdb1875028c6537877e6704b2646c51',
+        '0x951A969324127Fcc19D3498d6954A296E3B9C33c'
+      ]
     }
   },
   31337: {
