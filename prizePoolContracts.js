@@ -99,13 +99,6 @@ module.exports = {
       },
       {
         prizePool: {
-          address: '0xde5275536231eca2dd506b9ccd73c028e16a9a32'
-        },
-        symbol: 'PT-cUSDC',
-        subgraphVersion: '3.1.0'
-      },
-      {
-        prizePool: {
           address: '0xab068f220e10eed899b54f1113de7e354c9a8eb7'
         },
         symbol: 'PT-cBAT',
