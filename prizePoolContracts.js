@@ -60,6 +60,12 @@ module.exports = {
         ]
       },
       {
+        prizePool: { address: '0x3af7072d29adde20fc7e173a7cb9e45307d2fb0a' },
+        symbol: 'POOL-ETH-UNI-V2-LP',
+        subgraphVersion: '3.3.8',
+        tokenFaucets: ['0x9a29401ef1856b669f55ae5b24505b3b6faeb370']
+      },
+      {
         prizePool: { address: '0x65c8827229fbd63f9de9fdfd400c9d264066a336' },
         symbol: 'gUSD-0x65C882',
         subgraphVersion: '3.3.8'
@@ -162,7 +168,7 @@ module.exports = {
         subgraphVersion: '3.3.8',
         tokenFaucets: [
           '0x90a8d8ee6fdb1875028c6537877e6704b2646c51',
-          '0x951/A969324127Fcc19D3498d6954A296E3B9C33c'
+          '0x951A969324127Fcc19D3498d6954A296E3B9C33c'
         ]
       }
     ],

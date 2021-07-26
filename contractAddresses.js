@@ -65,7 +65,8 @@ module.exports = {
     },
     uniswapPoolEth: {
       prizePool: '0x3AF7072D29Adde20FC7e173a7CB9e45307d2FB0A',
-      prizeStrategy: '0x76b6A667A881e43e508eA4bd2E9775378FB2eEb7'
+      prizeStrategy: '0x76b6A667A881e43e508eA4bd2E9775378FB2eEb7',
+      tokenFaucets: ['0x9a29401ef1856b669f55ae5b24505b3b6faeb370']
     },
     sushi: {
       prizePool: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559',
