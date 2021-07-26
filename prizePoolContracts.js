@@ -141,6 +141,12 @@ module.exports = {
   56: {
     governance: [
       {
+        prizePool: { address: '0xA45Ad3854285f04C06D8ee46CF5E1F1311607905' },
+        symbol: 'BNB-0xA45Ad3',
+        subgraphVersion: '3.4.3',
+        tokenFaucets: []
+      },
+      {
         prizePool: { address: '0x5632f63d08162d85393a049926f43196ad525ae4' },
         symbol: 'BNB-0x5632f6',
         subgraphVersion: '3.4.3',
