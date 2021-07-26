@@ -10,6 +10,7 @@ const SECONDS_PER_BLOCK = Object.freeze({
   1: 14,
   3: 14,
   4: 14,
+  56: 5,
   137: 2
 })
 

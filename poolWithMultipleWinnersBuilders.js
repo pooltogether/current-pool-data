@@ -1,6 +1,11 @@
 module.exports = {
   // Mainnet
   1: [
+    // v3.4.3
+    {
+      address: '0xAD1C620137FA76f520f9a39daAcD7B008D7d2F2D',
+      blockNumber: 12841079
+    },
     // v3.3.8
     {
       address: '0xD1e536939F637Fc12f29C304c406377c9f77E28c',
@@ -29,6 +34,11 @@ module.exports = {
   ],
   // Rinkeby
   4: [
+    // v3.4.3
+    {
+      address: '0xB852Bb662B692146BEC334A9E91C8e2e6e64FCdc',
+      blockNumber: 8948899
+    },
     // v3.3.5
     {
       address: '0xF150CFC88868B88eAfc52D1C571A9Bdc484611E2',
@@ -62,6 +72,11 @@ module.exports = {
   ],
   // Kovan
   42: [
+    // 3.4.3
+    {
+      address: '0xEccfB4F7aB44effE457e399cebAa04A95a9061d8',
+      blockNumber: 26171326
+    },
     // 3.3.5
     {
       address: '0x14e194Cf5E1dd73BB46256495aEa8ff36A7Aa454',
@@ -75,14 +90,24 @@ module.exports = {
   ],
   // Binance BSC
   56: [
+    // 3.4.3
+    {
+      address: '0xBA79b0aC8818e1515F51fEF240F4228F29F64948',
+      blockNumber: 9218921
+    },
     // 3.3.7
     {
       address: '0x6dc7cA9e2c19Da475B39cce7437994c1725d85C9',
       blockNumber: 6114878
     }
   ],
-  // Binance BSC
+  // Binance BSC Testnet
   97: [
+    // 3.4.3
+    {
+      address: '0xBA79b0aC8818e1515F51fEF240F4228F29F64948',
+      blockNumber: 10652742
+    },
     // 3.3.7
     {
       address: '0x6dc7cA9e2c19Da475B39cce7437994c1725d85C9',
@@ -91,6 +116,11 @@ module.exports = {
   ],
   // Sokol
   77: [
+    // 3.4.3
+    {
+      address: '0xdE23A21CaBaFc5fC1b2d614f2728366bF981ccAd',
+      blockNumber: 21815210
+    },
     // 3.3.6
     {
       address: '0x1a8A2F20E37dCc27d5d18af65eC58Be02CEd979D',
@@ -104,6 +134,11 @@ module.exports = {
   ],
   // xDai
   100: [
+    // 3.4.3
+    {
+      address: '0xCE7Ff1E49E16f3AD30b23a04eDA62F18D8F6d186',
+      blockNumber: 17105628
+    },
     // 3.3.5
     {
       address: '0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5',
@@ -117,6 +152,11 @@ module.exports = {
   ],
   // Matic
   137: [
+    // 3.4.3
+    {
+      address: '0x920Bd7C30b36C958FAE800ee07660E6A56b86A2c',
+      blockNumber: 16940744
+    },
     // 3.3.8
     {
       address: '0x5effa0823e486A5ED1D49d88A1374Fc337e1f9F4',
@@ -135,6 +175,11 @@ module.exports = {
   ],
   // Matic Testnet - Mumbai
   80001: [
+    // 3.4.3
+    {
+      address: '0xfAe3C60e0e14b90de41FbD05d9D82Cd5e8D90068',
+      blockNumber: 16436736
+    },
     // 3.3.5
     {
       address: '0x4d1639e4b237BCab6F908A1CEb0995716D5ebE36',

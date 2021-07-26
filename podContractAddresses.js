@@ -6,6 +6,8 @@ module.exports = {
     '0x2f994e2E4F3395649eeE8A89092e63Ca526dA829', // Dai Pod
     '0x386EB78f2eE79AddE8Bdb0a0e27292755ebFea58' // USDC Pod
   ],
+  // Binance
+  56: [],
   // Polygon
   137: [],
   // Rinkeby

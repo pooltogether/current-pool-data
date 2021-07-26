@@ -138,6 +138,16 @@ module.exports = {
       }
     ]
   },
+  56: {
+    governance: [
+      {
+        prizePool: { address: '0x5632f63d08162d85393a049926f43196ad525ae4' },
+        symbol: 'BNB-0x5632f6',
+        subgraphVersion: '3.4.3',
+        tokenFaucets: []
+      }
+    ]
+  },
   137: {
     governance: [
       {
@@ -146,7 +156,7 @@ module.exports = {
         subgraphVersion: '3.3.8',
         tokenFaucets: [
           '0x90a8d8ee6fdb1875028c6537877e6704b2646c51',
-          '0x951A969324127Fcc19D3498d6954A296E3B9C33c'
+          '0x951/A969324127Fcc19D3498d6954A296E3B9C33c'
         ]
       }
     ],
