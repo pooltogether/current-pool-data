@@ -1,6 +1,7 @@
 const MAX_SAFE_INTEGER = 7199254740991
 
 const PRIZE_POOL_TYPES = Object.freeze({
+  cream: 'cream',
   compound: 'compound',
   genericYield: 'genericYield',
   stake: 'stake'
