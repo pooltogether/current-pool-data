@@ -147,17 +147,11 @@ module.exports = {
   56: {
     governance: [
       {
-        prizePool: { address: '0xA45Ad3854285f04C06D8ee46CF5E1F1311607905' },
-        symbol: 'BNB-0xA45Ad3',
+        prizePool: { address: '0x06D75Eb5cA4Da7F7C7A043714172CF109D07a5F8' },
+        symbol: 'CAKE-0x06D75E',
         subgraphVersion: '3.4.3',
         tokenFaucets: []
       },
-      {
-        prizePool: { address: '0x5632f63d08162d85393a049926f43196ad525ae4' },
-        symbol: 'BNB-0x5632f6',
-        subgraphVersion: '3.4.3',
-        tokenFaucets: []
-      }
     ]
   },
   137: {

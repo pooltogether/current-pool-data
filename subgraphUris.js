@@ -15,7 +15,7 @@ const POOLTOGETHER_SUBGRAPH_URIS = {
     '3.4.3': 'https://api.thegraph.com/subgraphs/name/pooltogether/rinkeby-v3_4_3'
   },
   56: {
-    '3.4.3': 'https://api.thegraph.com/subgraphs/name/pooltogether/bsc-v3_4_3'
+    '3.4.3': 'https://api.thegraph.com/subgraphs/name/pooltogether/bsc-staging-v3_4_3'
   },
   137: {
     '3.3.0': 'https://api.thegraph.com/subgraphs/name/pooltogether/pooltogether-polygon-v3_3',
