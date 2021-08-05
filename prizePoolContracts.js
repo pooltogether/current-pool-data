@@ -152,6 +152,12 @@ module.exports = {
         subgraphVersion: '3.4.3',
         tokenFaucets: []
       },
+      {
+        prizePool: { address: '0xF48141f6728BeC9f3CF946ac37c3f46890486618' },
+        symbol: 'WBNB-0xF48141',
+        subgraphVersion: '3.4.3',
+        tokenFaucets: []
+      },
     ]
   },
   137: {
