@@ -153,8 +153,8 @@ module.exports = {
         tokenFaucets: []
       },
       {
-        prizePool: { address: '0xF48141f6728BeC9f3CF946ac37c3f46890486618' },
-        symbol: 'WBNB-0xF48141',
+        prizePool: { address: '0x2f4Fc07E4Bd097C68774E5bdAbA98d948219F827' },
+        symbol: 'WBNB-0x2f4Fc0',
         subgraphVersion: '3.4.3',
         tokenFaucets: []
       },
