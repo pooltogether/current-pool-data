@@ -101,14 +101,16 @@ module.exports = {
           address: '0x4706856fa8bb747d50b4ef8547fe51ab5edc4ac2'
         },
         symbol: 'PT-cDAI',
-        subgraphVersion: '3.1.0'
+        subgraphVersion: '3.1.0',
+        tokenFaucets: ['0x5d5af77cf99f7015e615f9b3286a27c5b6090707']
       },
       {
         prizePool: {
           address: '0xab068f220e10eed899b54f1113de7e354c9a8eb7'
         },
         symbol: 'PT-cBAT',
-        subgraphVersion: '3.1.0'
+        subgraphVersion: '3.1.0',
+        tokenFaucets: ['0x97b99693613aaa74a3fa0b2f05378b8f6a74a893']
       }
     ],
     community: [
@@ -157,7 +159,7 @@ module.exports = {
         symbol: 'WBNB-0x2f4Fc0',
         subgraphVersion: '3.4.3',
         tokenFaucets: []
-      },
+      }
     ]
   },
   137: {
