@@ -172,6 +172,12 @@ module.exports = {
           '0x90a8d8ee6fdb1875028c6537877e6704b2646c51',
           '0x951A969324127Fcc19D3498d6954A296E3B9C33c'
         ]
+      },
+      {
+        prizePool: { address: '0xee06abe9e2af61cabcb13170e01266af2defa946' },
+        symbol: 'USDC-0xee06ab',
+        subgraphVersion: '3.4.3',
+        tokenFaucets: []
       }
     ],
     community: []
