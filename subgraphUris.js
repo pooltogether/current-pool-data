@@ -21,6 +21,9 @@ const POOLTOGETHER_SUBGRAPH_URIS = {
     '3.3.0': 'https://api.thegraph.com/subgraphs/name/pooltogether/pooltogether-polygon-v3_3',
     '3.3.8': 'https://api.thegraph.com/subgraphs/name/pooltogether/polygon-v3_3_8',
     '3.4.3': 'https://api.thegraph.com/subgraphs/name/pooltogether/polygon-v3_4_3'
+  },
+  42220: {
+    '3.4.5': 'https://api.thegraph.com/subgraphs/name/pooltogether/celo-v3_4_5'
   }
 }
 

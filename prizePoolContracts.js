@@ -174,6 +174,23 @@ module.exports = {
     ],
     community: []
   },
+  42220: {
+    governance: [
+      {
+        prizePool: { address: '0x6F634F531ED0043B94527F68EC7861B4B1Ab110d' },
+        symbol: 'CELO-cUSD',
+        subgraphVersion: '3.4.5',
+        tokenFaucets: []
+      },
+      {
+        prizePool: { address: '0xbe55435BdA8f0A2A20D2Ce98cC21B0AF5bfB7c83' },
+        symbol: 'CELO-cEUR',
+        subgraphVersion: '3.4.5',
+        tokenFaucets: []
+      }
+    ],
+    community: []
+  },
   80001: {
     governance: [],
     community: []
