@@ -75,6 +75,10 @@ module.exports = {
         '0xddcf915656471b7c44217fb8c51f9888701e759a',
         '0xd186302304fd367488b5087af5b12cb9b7cf7540'
       ]
+    },
+    aaveUsdc: {
+      prizePool: '0xee06abe9e2af61cabcb13170e01266af2defa946',
+      prizeStrategy: '0x640bc9e20fb1e1d6af59d6b9e684d57947966678'
     }
   },
   137: {
