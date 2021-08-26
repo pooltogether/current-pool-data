@@ -98,11 +98,17 @@ module.exports = {
   42220: {
     cusd: {
       prizePool: '0x6F634F531ED0043B94527F68EC7861B4B1Ab110d',
-      prizeStrategy: '0x56837090bb659ee4e468ae22eb97e17cdf829f9f'
+      prizeStrategy: '0x56837090bb659ee4e468ae22eb97e17cdf829f9f',
+      tokenFaucets: [
+        '0xc777e1db58c386b8827bc1321fc2fef03ee5a7b7'
+      ]
     },
     ceur: {
       prizePool: '0xbe55435BdA8f0A2A20D2Ce98cC21B0AF5bfB7c83',
       prizeStrategy: '0xc935142eef56f2467e2baa8d1821f6d9178320c7',
+      tokenFaucets: [
+        '0xd7bb81038d60e3530b9d550cd17de605bd27b937'
+      ]
     }
   },
   31337: {

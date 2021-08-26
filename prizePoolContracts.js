@@ -188,13 +188,17 @@ module.exports = {
         prizePool: { address: '0x6F634F531ED0043B94527F68EC7861B4B1Ab110d' },
         symbol: 'CELO-cUSD',
         subgraphVersion: '3.4.5',
-        tokenFaucets: []
+        tokenFaucets: [
+          '0xc777e1db58c386b8827bc1321fc2fef03ee5a7b7'
+        ]
       },
       {
         prizePool: { address: '0xbe55435BdA8f0A2A20D2Ce98cC21B0AF5bfB7c83' },
         symbol: 'CELO-cEUR',
         subgraphVersion: '3.4.5',
-        tokenFaucets: []
+        tokenFaucets: [
+          '0xd7bb81038d60e3530b9d550cd17de605bd27b937'
+        ]
       }
     ],
     community: []
