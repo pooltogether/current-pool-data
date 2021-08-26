@@ -93,6 +93,10 @@ module.exports = {
         '0x90a8d8ee6fdb1875028c6537877e6704b2646c51',
         '0x951A969324127Fcc19D3498d6954A296E3B9C33c'
       ]
+    },
+    usdc: {
+      prizePool: '0xEE06AbE9e2Af61cabcb13170e01266Af2DEFa946',
+      prizeStrategy: '0x640bc9e20fb1e1d6af59d6b9e684d57947966678'
     }
   },
   42220: {
