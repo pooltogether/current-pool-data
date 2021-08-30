@@ -91,12 +91,16 @@ module.exports = {
       prizeStrategy: '0x5A65f0CE666B8334b6481A8d8C8323BB782386e6',
       tokenFaucets: [
         '0x90a8d8ee6fdb1875028c6537877e6704b2646c51',
-        '0x951A969324127Fcc19D3498d6954A296E3B9C33c'
+        '0x951A969324127Fcc19D3498d6954A296E3B9C33c',
+        '0x12533c9fe479ab8c27e55c1b7697e0647fadb153'
       ]
     },
     usdc: {
       prizePool: '0xEE06AbE9e2Af61cabcb13170e01266Af2DEFa946',
-      prizeStrategy: '0x640bc9e20fb1e1d6af59d6b9e684d57947966678'
+      prizeStrategy: '0x640bc9e20fb1e1d6af59d6b9e684d57947966678',
+      tokenFaucets: [
+        '0x6cbc003fe015d753180f072d904ba841b2415498'
+      ]
     }
   },
   42220: {
