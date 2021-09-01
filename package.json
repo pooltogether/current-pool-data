@@ -1,13 +1,15 @@
 {
   "name": "@pooltogether/current-pool-data",
-  "version": "3.6.2",
-  "description": "Published list of current contract addresses for each version",
+  "version": "3.7.0",
+  "description": "Published list of contract addresses for PoolTogether v3",
   "author": "PoolTogether Inc.",
   "repository": "git@github.com:pooltogether/current-pool-data.git",
   "main": "index.js",
   "browser": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "postpublish": "PACKAGE_VERSION=$(cat package.json | grep \\\"version\\\" | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]') && git tag v$PACKAGE_VERSION && git push --tags && yarn gitwarn",
+    "gitwarn": "echo '*******************' && echo 'Please push your changes to Git' && echo '*******************'"
   },
   "publishConfig": {
     "access": "public"
