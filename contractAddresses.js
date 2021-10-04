@@ -68,6 +68,11 @@ module.exports = {
       prizeStrategy: '0x76b6A667A881e43e508eA4bd2E9775378FB2eEb7',
       tokenFaucets: ['0x9a29401ef1856b669f55ae5b24505b3b6faeb370']
     },
+    sohm: {
+      prizePool: '0xEaB695A8F5a44f583003A8bC97d677880D528248',
+      prizeStrategy: '0xf3d253257167c935f8C62A02AEaeBB24c9c5012a',
+      tokenFaucets: []
+    },
     sushi: {
       prizePool: '0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559',
       prizeStrategy: '0x94ac4f591908ad5a1ccc9e05d2d75b0dd62d97fa',
@@ -98,25 +103,19 @@ module.exports = {
     usdc: {
       prizePool: '0xEE06AbE9e2Af61cabcb13170e01266Af2DEFa946',
       prizeStrategy: '0x640bc9e20fb1e1d6af59d6b9e684d57947966678',
-      tokenFaucets: [
-        '0x6cbc003fe015d753180f072d904ba841b2415498'
-      ]
+      tokenFaucets: ['0x6cbc003fe015d753180f072d904ba841b2415498']
     }
   },
   42220: {
     cusd: {
       prizePool: '0x6F634F531ED0043B94527F68EC7861B4B1Ab110d',
       prizeStrategy: '0x56837090bb659ee4e468ae22eb97e17cdf829f9f',
-      tokenFaucets: [
-        '0xc777e1db58c386b8827bc1321fc2fef03ee5a7b7'
-      ]
+      tokenFaucets: ['0xc777e1db58c386b8827bc1321fc2fef03ee5a7b7']
     },
     ceur: {
       prizePool: '0xbe55435BdA8f0A2A20D2Ce98cC21B0AF5bfB7c83',
       prizeStrategy: '0xc935142eef56f2467e2baa8d1821f6d9178320c7',
-      tokenFaucets: [
-        '0xd7bb81038d60e3530b9d550cd17de605bd27b937'
-      ]
+      tokenFaucets: ['0xd7bb81038d60e3530b9d550cd17de605bd27b937']
     }
   },
   31337: {
