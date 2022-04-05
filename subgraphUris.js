@@ -38,7 +38,7 @@ const UNISWAP_GRAPH_URIS = {
   4: 'https://api.thegraph.com/subgraphs/name/blockrockettech/uniswap-v2-subgraph-rinkeby',
   56: 'https://bsc.streamingfast.io/subgraphs/name/pancakeswap/exchange-v2',
   137: 'https://api.thegraph.com/subgraphs/name/sameepsi/quickswap',
-  42220: 'https://api.thegraph.com/subgraphs/name/sushiswap/celo-exchange'
+  42220: 'https://api.thegraph.com/subgraphs/name/ubeswap/ubeswap'
 }
 
 module.exports = {
